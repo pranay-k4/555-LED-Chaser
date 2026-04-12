@@ -1,4 +1,4 @@
-<img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/ae2c1c73-6c4a-44a1-bcfa-ed9ea61cd1d1" /># 555-LED-Chaser
+# 555-LED-Chaser
 A 555 LED chaser board — a classic beginner PCB project.
 This a 555 LED chaser here I have also added a potentiometer for controling the speed of the pulse.
 
