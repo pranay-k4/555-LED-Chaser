@@ -15,10 +15,10 @@ Here I have Modes for this chaser which I can change using the button -
 
 ## PCB design - 
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/0aef6e9d-df96-4a22-a867-99c00deb9642" />
-<img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/e9c77681-d44a-47c8-8fd2-8a0d8635d7ea" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/136fdf63-5aa7-40cb-819e-f586a7e24908" />
 
 ### Final 3D design - 
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/136fdf63-5aa7-40cb-819e-f586a7e24908" />
+<img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/e9c77681-d44a-47c8-8fd2-8a0d8635d7ea" />
 <img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/bc275fae-d197-4b7a-a28d-cac484248454" />
 
 - I plan to added some non functional decor or acessory to make it look like a arc reactor the ones in the movies IRON MAN.
