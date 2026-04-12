@@ -4,8 +4,8 @@ This a 555 LED chaser here I have also added a potentiometer for controling the 
 
 ## Modes
 Here I have Modes for this chaser which I can change using the button - 
-- 1)  First one being the normal 555 chaser mode
-  2)  The second mode will be where all the leds will be on not blinking
+1)  First one being the normal 555 chaser mode
+2)  The second mode will be where all the leds will be on not blinking
 
 ## Design
 - The design is simple.
