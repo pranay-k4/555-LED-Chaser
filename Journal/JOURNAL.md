@@ -35,12 +35,6 @@ Here is the Final look
 
 This Journal log is of 4 hrs cuz it actually took 4 hours especially the routing
 
-![image](https://stasis.hackclub-assets.com/images/1778396242365-3eer5c.png)
-![image](https://stasis.hackclub-assets.com/images/1778397438456-ycjwfq.png)
-![image](https://stasis.hackclub-assets.com/images/1778397518879-a3qdpt.png)
-![image](https://stasis.hackclub-assets.com/images/1778397551215-t6k185.png)
-![image](https://stasis.hackclub-assets.com/images/1778397571485-sky05r.png)
-
 # 4/12/2026 11 AM - Finished the PCB
 
 _Time spent: 2h_
@@ -65,11 +59,6 @@ _Time spent: 2h_
 ## Design plans
 - I plan to decorate and add some extra fake wiring and decor to it to make it look like the Arc reactor from the movies
 
-![image](https://stasis.hackclub-assets.com/images/1775993653175-rb4t0m.png)
-![image](https://stasis.hackclub-assets.com/images/1775993700651-lfasko.png)
-![image](https://stasis.hackclub-assets.com/images/1775993726260-354cnw.png)
-![image](https://stasis.hackclub-assets.com/images/1775993735037-lvpi86.png)
-
 # 4/11/2026 4 PM - Started the PCB
 
 _Time spent: 1.166666666666667h_
@@ -86,8 +75,6 @@ _Time spent: 1.166666666666667h_
 - Wire routing
 - adding Silkscreen and other details
 
-![image](https://stasis.hackclub-assets.com/images/1775926339836-f8vd4r.png)
-
 # 4/10/2026 4 PM - Made some changes in schematics
 
 _Time spent: 0.6666666666666666h_
@@ -102,12 +89,8 @@ _Time spent: 0.6666666666666666h_
 
 - Added the schematic to Github
 
-
-
 ## Things left to do
 - The PCB
-
-![image](https://stasis.hackclub-assets.com/images/1775838049824-uoo1zp.png)
 
 # 4/8/2026 5 PM - Completed the schematic
 
@@ -127,8 +110,6 @@ Time - 1 hour
 - The PCB design for the bliny board 
 - Adding the BOM
 
-![image](https://stasis.hackclub-assets.com/images/1775668175960-dnmflc.png)
-
 # 4/7/2026 3 PM - Getting ahead with Schematics
 
 _Time spent: 0.6666666666666666h_
@@ -147,9 +128,6 @@ _Time spent: 0.6666666666666666h_
 ## Things to figure out
 - The PCB design
 
-![image](https://stasis.hackclub-assets.com/images/1775576309536-nuafqs.png)
-![image](https://stasis.hackclub-assets.com/images/1775576593555-187lxt.png)
-
 # 4/6/2026 1 PM - Started the Schematics
 
 _Time spent: 1h_
@@ -166,9 +144,6 @@ _Time spent: 1h_
  
 ## Things to figure out
 - The PCB design
-
-![image](https://stasis.hackclub-assets.com/images/1775482925822-g4drsm.png)
-![image](https://stasis.hackclub-assets.com/images/1775482947269-0guefy.png)
 
 # 4/5/2026 5 AM - Basic Start of the project
 
@@ -190,6 +165,3 @@ _Time spent: 0.8333333333333334h_
 ## Things to figure out
 - How to use Kicad
 -Understandin the ICs and other components
-
-![image](https://stasis.hackclub-assets.com/images/1775367097996-xqzgb4.png)
-![image](https://stasis.hackclub-assets.com/images/1775367296433-1g8jo0.png)
