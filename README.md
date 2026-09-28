@@ -53,7 +53,5 @@ The mode button selects between:
 ### Demo Video
 Youtube link: [here](https://youtu.be/frKLaEfmWBQ)
 
-https://github.com/user-attachments/assets/4ac87c44-f885-47b6-87fa-4fdaf729db95
-
 
 Part of Hack Club's Stasis Event
