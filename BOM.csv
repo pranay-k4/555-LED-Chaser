@@ -1,2 +1,11 @@
 Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"PCB","Its the is the main project",5,4.00,"","JLPCB"
+"PCB","Main project PCB",5,4.00,"","JLCPCB"
+"NE555P","Clock generator for LED chaser",1,0.10,"https://www.lcsc.com/","LCSC"
+"CD4017BE","Decade counter driving LEDs",1,0.15,"https://www.lcsc.com/","LCSC"
+"50k Potentiometer","Adjusts chase speed",1,0.20,"https://www.lcsc.com/","LCSC"
+"Electrolytic Capacitor","555 timing capacitor (C1)",1,0.05,"https://www.lcsc.com/","LCSC"
+"Ceramic Capacitor","Decoupling/timing capacitor (C2)",1,0.02,"https://www.lcsc.com/","LCSC"
+"470Ω Resistor","LED current limiting",1,0.01,"https://www.lcsc.com/","LCSC"
+"5mm LED","Chaser output LEDs",10,0.20,"https://www.lcsc.com/","LCSC"
+"SPDT Slide Switch","Power switch",1,0.15,"https://www.lcsc.com/","LCSC"
+"2-Pin Connector","Power input connector",1,0.05,"https://www.lcsc.com/","LCSC"
